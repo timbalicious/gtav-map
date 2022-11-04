@@ -1,0 +1,3 @@
+x range: -4000 to 6000 (10000)
+y range: -4000 ti 8000 (12000)
+zero at offset 4000, 4000
